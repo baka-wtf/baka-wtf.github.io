@@ -16,9 +16,6 @@
   "bugs": {
     "url": "https://github.com/baka-wtf/baka-wtf.github.io/issues"
   },
-  "homepage": "https://github.com/baka-wtf/baka-wtf.github.io#readme",
-  "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^1.9.1"
-  }
+  "homepage": "https://baka-wtf.github.io",
+  "dependencies": {}
 }
