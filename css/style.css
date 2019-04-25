@@ -22,9 +22,12 @@ body {
 }
 
 .shiina {
-    height: 250px;
-    width: auto;
     position:absolute;
     bottom:0;
     left:0;
+}
+
+.shiina img {
+    height: 300px;
+    width: auto;
 }
