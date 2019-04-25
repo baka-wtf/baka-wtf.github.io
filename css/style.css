@@ -2,6 +2,10 @@ body {
     background-color: #23272A;
 }
 
+.white {
+    color: #ffffff;
+}
+
 .resp-container {
     position: relative;
     overflow: hidden;
