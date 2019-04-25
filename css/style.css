@@ -1,3 +1,7 @@
+body {
+    background-color: #23272A;
+}
+
 .resp-container {
     position: relative;
     overflow: hidden;
